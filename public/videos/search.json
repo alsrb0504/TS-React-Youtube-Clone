@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yPxRwXCb8axq7psCRoQhyIS4R-k",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o6Hmu_N-yJHX1C65G2kwVCnq8Qw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P25TrnU_50M"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T20:53:57Z",
+        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
+        "title": "Best Shorebreak Wipeouts of Winter 2023! Smoookified !!!",
+        "description": "The best shorebreak wipeouts captured during the run of swells this winter here in Southern California. Everyone charging next ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P25TrnU_50M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P25TrnU_50M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P25TrnU_50M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BEEFS T.V.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T20:53:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lJseUCvBmoHwCWUF9_130ZMqODo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3z6SCKkTgI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T10:00:27Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "SURFING A STORM SURGE!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3z6SCKkTgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3z6SCKkTgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3z6SCKkTgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T10:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OoZolLnyRZLT4xYpCCSkWWXby4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3BRhWa24pdg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T11:00:05Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "A Classy Sand Bottom Barrel (Opening Scene) – Canggu",
+        "description": "There aren't too many quality sand bottom waves in Bali, and even less that have a good barrel. But local surfer Biawak managed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3BRhWa24pdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3BRhWa24pdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3BRhWa24pdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T11:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "srAals86Aj8KoGmkuPqdfz9DkU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XEsr2FRgmd4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T08:37:32Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "WATCH LIVE Day 4 of the Oakberry Tweed Coast Pro",
+        "description": "The World Surf League returns to the Tweed Coast in New South Wales for the 2023 Oakberry Tweed Coast Pro QS 5000 #wsl ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XEsr2FRgmd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XEsr2FRgmd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XEsr2FRgmd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T08:37:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W378OXKFgu3wNXvkDzDe7QCxTPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "urG1mDdeAfs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T02:10:05Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Kelly Slater, Miguel Pupo, Maxime Huscenot | Hurley Pro Sunset Beach 2023 Opening Rnd Heat Replay",
+        "description": "Heat Replay of Kelly Slater, Miguel Pupo, Maxime Huscenot at the Hurley Pro Sunset Beach 2023 Opening Rnd Heat Replay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/urG1mDdeAfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/urG1mDdeAfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/urG1mDdeAfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T02:10:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VGEgIVvFOkQynkRYImCBwzN-7hs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ma67yOdMQfs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-23T17:00:15Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-23T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uzg22yqSI1c9GqZnyNsS_KfPX-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JaM4gJaHSrs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T13:25:32Z",
+        "channelId": "UC5ovaFtNA0Jbq7mf0vdKYjg",
+        "title": "New Zealand Kitesurfer Surfs Amidst Cyclone",
+        "description": "A daring kite surfer was filmed soaring skywards in strong winds in Auckland, on February 12, as Cyclone Gabrielle neared New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JaM4gJaHSrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JaM4gJaHSrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaM4gJaHSrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Storyful Viral",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T13:25:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HzV6AtMpjkJYI7DZd_4LvuwbCOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NCZMLkPAwro"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T11:00:10Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "Tricky Take-Off With Karina (Opening Scene) - Canggu",
+        "description": "She might have lost it at the bottom of the wave, but Karina Rozunko definitely spiced things up with a fins first a take-off on the first ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCZMLkPAwro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCZMLkPAwro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCZMLkPAwro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T11:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vqXgmLUh2pue7o_GIYz3Y5TIg1k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RbSN1meGnsM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T19:00:10Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "SURFING WITH WORLD CHAMPION ITALO FERREIRA",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RbSN1meGnsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RbSN1meGnsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RbSN1meGnsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T19:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rl0rAvLg5CNJsTV9bQlgUkEDxRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2c3g92WvdS4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T11:00:02Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "Perfect Size For Shredding (Opening Scene) - Canggu",
+        "description": "It was just the right size and shape for some high performance shredding in Canggu a few days ago. And having Bronson Meydi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2c3g92WvdS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2c3g92WvdS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2c3g92WvdS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T11:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jbjC1kLZIF6khBzyXwDW7hQJRVc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WJO1_6GGdMA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T18:00:14Z",
+        "channelId": "UCetqivVVEGv6diBDDM0ItQg",
+        "title": "SURFING A SEMI-FINALS AT THE BILLABONG PIPELINE PRO // LAKEY PETERSON",
+        "description": "Welcome back and happy Monday. This weeks episode includes plenty of action packed footage around finals day at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJO1_6GGdMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJO1_6GGdMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJO1_6GGdMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lakey Peterson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T18:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BN0o3fMNk533NyXTB_8p7GvWnwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSWST13stO4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T15:00:32Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k-3FqnfFr8GkgdXW3oqoDZMfh2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Smgql_DESn8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T10:59:56Z",
+        "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+        "title": "Stray Kids &quot;Surfin&#39; (리노, 창빈, 필릭스)(Surfin&#39; (Lee Know, Changbin, Felix))&quot; Video",
+        "description": "Stray Kids(스트레이 키즈) \"Surfin' (리노, 창빈, 필릭스)(Surfin' (Lee Know, Changbin, Felix))\" Video Stray Kids THE 2ND ALBUM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stray Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T10:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D9Sp2OxTbG00G7rRujZ8BMjPGjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zZqxPozl2Ec"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T07:00:09Z",
+        "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
+        "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
+        "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T07:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O3qAjTUPPN6n5sBLsEQHnnVPSFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtHZKToMvus"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-02T17:46:49Z",
+        "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
+        "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
+        "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billabong",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-02T17:46:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u6Wy-XXxPdu_vHEzlklyozYDHZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rj7xMBxd5iY"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-12T11:09:52Z",
+        "channelId": "UCiiFGfvlKvX3uzMovO3unaw",
+        "title": "BIG WAVE SURFING COMPILATION 2017",
+        "description": "BIG WAVE SURFING COMPILATION 2017 ** REVISED **AMAZING FOOTAGE ** WITH 60-100FT- HUGE SURF Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Absolutely Flawless",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-12T11:09:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cf2xxzbM6pvLoa1E0gWpW1Gt2f8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cP0t9HiLt5s"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T01:33:55Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Jack Robinson, Jake Marshall, Eli Hanneman | Hurley Pro Sunset Beach - Opening Rnd Heat Replay",
+        "description": "Heat Replay of Jack Robinson, Jake Marshall, Eli Hanneman at the Hurley Pro Sunset Beach - Opening Rnd Limited-edition 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cP0t9HiLt5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cP0t9HiLt5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cP0t9HiLt5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T01:33:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YOF8KJHNm7shjSVwPBD40HSVGtk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yz4kvvrfucI"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-26T11:41:45Z",
+        "channelId": "UCK9DGUQe7gzpvFayfJ5wGFw",
+        "title": "surf",
+        "description": "Provided to YouTube by YG PLUS surf · 죠지 · Cosmic Boy surf ℗ CRAFT AND JUN Released on: 2020-09-01 Lyricist: 죠지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yz4kvvrfucI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yz4kvvrfucI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yz4kvvrfucI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "george - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-26T11:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "58pPaqRwRds-e8RsKHWbkhV-PpA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OHaKUMtxGTU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T09:44:18Z",
+        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
+        "title": "SURFING THE CLEAREST WAVES EVER!? (RAW POV) + TESTING SURF GEAR [PT.2]",
+        "description": "In today's video, I surf the CLEAREST WAVES I have ever surfed! I also test out all the gear @HoStevie got me for Christmas!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfing With Noz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T09:44:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MYIj0RAuxUEgkRzzsTmcWOrRRws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JTvKWjgh-Ps"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T00:53:35Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Italo Ferreira, Seth Moniz, K.Asing | Hurley Pro Sunset Beach 2023 - Opening Rnd Heat Replay",
+        "description": "Italo Ferreira, Seth Moniz, Keanu Asing at the Hurley Pro Sunset Beach 2023 - Opening Rnd Heat Replay Limited-edition 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JTvKWjgh-Ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JTvKWjgh-Ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JTvKWjgh-Ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T00:53:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "io4PmctOi9WhrgINFZciVPsy3Ho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YA7owzeGWcA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T03:22:53Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "HIGHLIGHTS Day 1 | Hurley Pro Sunset Beach 2023",
+        "description": "Limited-edition 2023 Official Championship Tour tees available now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YA7owzeGWcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YA7owzeGWcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YA7owzeGWcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T03:22:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UUwCLnSoepWtvPJ6fzv1iLOgiI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lvuLjGSTPIs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T19:46:28Z",
+        "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
+        "title": "Big surge caught a surfer and nearly a jetski! Insane ride!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvuLjGSTPIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvuLjGSTPIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvuLjGSTPIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nathan Florence",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T19:46:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nvsnPP01y58PGOtrJwu9Ydw7hTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s2qm3jzBXfE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T06:45:23Z",
+        "channelId": "UCmzxts0YGES5tN-oJ9abTQg",
+        "title": "Historic day at the Eddie Aikau Big Wave Invitational - Biggest Day Yet (Kai Lenny)",
+        "description": "A child I dreamt of competing in the most prestigious event in Surfing, the Eddie Aikau Big Wave Invitational. It was an honor to be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s2qm3jzBXfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s2qm3jzBXfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2qm3jzBXfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kai Lenny",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T06:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WEQqNFVYpoEm8dK3eshq1nsEa_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H17i_5-ebrc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T12:16:32Z",
+        "channelId": "UCeSRjhfeeqIgr--AcP9qhyg",
+        "title": "Largest wave surfed - Guinness World Records",
+        "description": "Subscribe to never miss a video! || https://gwr.co/YT-Sub Check out the GWR favourites! || http://gwr.co/YT-Favs ▷ Order Guinness ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Guinness World Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T12:16:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qfu5Pi147FT-0vUXHvBD7cQEb3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_cBbnd-UITo"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T07:30:07Z",
+        "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
+        "title": "Cyclone Surf Delivers Perfect Tubes through a Greenmount Minefield",
+        "description": "Tropical Cyclone Gabrielle delivered some much needed swell to the Superbank with Greenmount delivering endless tubes if you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cBbnd-UITo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cBbnd-UITo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cBbnd-UITo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Raw Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T07:30:07Z"
+      }
+    }
+  ]
+}
