@@ -1,22 +1,11 @@
-import axios, { AxiosInstance } from "axios";
+import FakeYoutubeClient from "./fakeYoutubeClient";
+import YoutubeClient from "./youtubeClient";
 
-export interface YoutubeInterface {
-  httpClient: AxiosInstance;
-  search: (keyword: string | undefined) => Promise<any>;
-  searchByKeyword: (keyword: string) => void;
-  mostPopuplar: () => void;
-}
+export default class Youtube {
+  apiClient;
 
-export default class Youtube implements YoutubeInterface {
-  httpClient;
-
-  constructor() {
-    this.httpClient = axios.create({
-      baseURL: "https://www.googleapis.com/youtube/v3",
-      params: {
-        key: process.env.REACT_APP_YOUTUBE_API_KEY,
-      },
-    });
+  constructor(apiClient: YoutubeClient | FakeYoutubeClient) {
+    this.apiClient = apiClient;
   }
 
   async search(keyword: string | undefined) {
@@ -24,8 +13,8 @@ export default class Youtube implements YoutubeInterface {
   }
 
   async searchByKeyword(keyword: string) {
-    return this.httpClient
-      .get(`search`, {
+    return this.apiClient
+      .search({
         params: {
           part: "snippet",
           maxResults: 25,
@@ -43,8 +32,8 @@ export default class Youtube implements YoutubeInterface {
   }
 
   async mostPopuplar() {
-    return this.httpClient
-      .get(`videos`, {
+    return this.apiClient
+      .videos({
         params: {
           part: "snippet",
           maxResults: 25,
