@@ -2,12 +2,15 @@ import React from "react";
 import { Outlet } from "react-router-dom";
 import "./App.css";
 import SearchHeader from "./components/SearchHeader";
+import { YoutubeApiProvider } from "./context/YoutubeApiContext";
 
 function App() {
   return (
     <>
       <SearchHeader />
-      <Outlet />
+      <YoutubeApiProvider>
+        <Outlet />
+      </YoutubeApiProvider>
     </>
   );
 }
