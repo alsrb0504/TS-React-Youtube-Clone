@@ -1,6 +1,7 @@
 import axios from "axios";
+import ClientInterface from "./clientInterface";
 
-export default class YoutubeClient {
+export default class YoutubeClient implements ClientInterface {
   httpClient;
 
   constructor() {

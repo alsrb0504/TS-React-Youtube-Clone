@@ -1,6 +1,6 @@
 import axios from "axios";
-
-export default class FakeYoutubeClient {
+import ClientInterface from "./clientInterface";
+export default class FakeYoutubeClient implements ClientInterface {
   async search() {
     return axios.get("/videos/search.json");
   }
