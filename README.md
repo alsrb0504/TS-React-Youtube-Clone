@@ -1,10 +1,11 @@
 # Dream Coding 유튜브 클론코딩
 
-이미지 섹션
+![image](https://user-images.githubusercontent.com/65377787/219960460-ea385b16-4410-4434-b50c-efba111bb9b9.png)
+
 
 <br>
 
-## 💻 Front 기술 스택
+## 💻 사용 기술 스택
 
 - **React.js**
 - **React-query**
@@ -13,6 +14,7 @@
 - **Tailwind CSS**
 
 <br>
+
 ## ✨ 배운점
 이전까지는 `Context API`, `React-Router-Dom` 등을 사용할 때, 아무 생각 없이 가장 상위 파일인 index.js 에서 `App` 컴포넌트를 감싸주었다. 하지만 이번 강의를 통해서 `Context Provder`를 필요한 곳의 가장 상위에만 감싸주는 **우산** 개념에 대해 이해할 수 있었다. 앞으로는 이러한 기능 구현에 앞서 어느 범위까지가 해당 기능을 사용할 지 고려할 수 있게 되었다.
 
